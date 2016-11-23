@@ -20,7 +20,7 @@ return [
         'blog' => [
             'class' => 'linchpinstudios\blog\Module',
         ],
-        'blog1' => [
+        'blog2' => [
             'class' => 'pendalf89\blog\Module',
             // This option automatically translit entered titles
             // from russian symbols to english on fly. Default false.
